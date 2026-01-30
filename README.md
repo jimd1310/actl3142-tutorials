@@ -3,6 +3,6 @@ This repository contains tutorial notes, worksheets, and code examples for ACTL3
 
 Semester 1, Summer 2026.
 
-**Disclaimer**
+### Disclaimer
 
 These materials are for educational purposes and are not official UNSW course notes.
